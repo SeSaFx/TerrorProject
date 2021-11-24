@@ -1,0 +1,11 @@
+Model Information:
+* title:	Persian Malayer Runner Carpet
+* source:	https://sketchfab.com/3d-models/persian-malayer-runner-carpet-e93557d4dab344a9b4e19dd4579e3707
+* author:	mfb64 (https://sketchfab.com/mfb64)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Persian Malayer Runner Carpet" (https://sketchfab.com/3d-models/persian-malayer-runner-carpet-e93557d4dab344a9b4e19dd4579e3707) by mfb64 (https://sketchfab.com/mfb64) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

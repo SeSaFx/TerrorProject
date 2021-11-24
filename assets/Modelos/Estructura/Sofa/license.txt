@@ -1,0 +1,11 @@
+Model Information:
+* title:	Room
+* source:	https://sketchfab.com/3d-models/room-f8900c5310f548279e858e95a268f54d
+* author:	Bryan Okafor - Ogu (https://sketchfab.com/bryoka15)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Room" (https://sketchfab.com/3d-models/room-f8900c5310f548279e858e95a268f54d) by Bryan Okafor - Ogu (https://sketchfab.com/bryoka15) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

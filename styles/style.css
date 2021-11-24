@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+/* PARAMETROS INICIO */
+#blocker {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(255, 255, 255, 0.646);
+}
+
+#instructions {
+  height: 970px;
+  width: 1550px;
+  cursor: pointer;
+  position: absolute;
+  top: -2.5%;
+}
+
+/* VIDEO PENNYWISE */
+#PennyWise{
+  position: fixed;
+  left: -124.5%;
+  opacity: 0%;
+  bottom:0;
+}
+
+/* VIDEO TELEVISION */
+#videoTele{
+  position: fixed;
+  left: -83%;
+  opacity: 0%;
+  bottom:0;
+}
+
+#videoFNAF{
+  position: fixed;
+  left: -83%;
+  opacity: 0%;
+  bottom:-85%;
+}
